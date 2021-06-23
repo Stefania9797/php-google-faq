@@ -19,8 +19,18 @@
     color: black;
     margin: 0 10px;
 }
-#faq{
+#faq-link{
     color: cornflowerblue;
     border-bottom: 5px solid cornflowerblue;
     padding-bottom: 6px;
+}
+main{
+    width: 70%;
+    margin: auto;
+}
+.q-a{
+    padding: 20px;
+}
+p{
+    margin:10px 0;
 }
